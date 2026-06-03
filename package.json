@@ -1,0 +1,20 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "YouZiliCC 的个人网站项目",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Build script can be configured here'",
+    "test": "echo 'Test script can be configured here'"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "YouZiliCC",
+  "license": "MIT"
+}
